@@ -1,5 +1,8 @@
 ## Super Resolution Examples
 
+### How to run the project 
+1. $pip install -r requirements.txt
+
 
 We run this script under [TensorFlow](https://www.tensorflow.org) 1.4 and the [TensorLayer](https://github.com/tensorlayer/tensorlayer) 1.8.0+.
 

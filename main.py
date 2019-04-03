@@ -263,10 +263,10 @@ def evaluate():
     # exit()
 
     ###========================== DEFINE MODEL ============================###
-    imid = 64  # 0: 企鹅  81: 蝴蝶 53: 鸟  64: 古堡
+    imid = 0  # 0: 企鹅  81: 蝴蝶 53: 鸟  64: 古堡
     valid_lr_img = valid_lr_imgs[imid]
     valid_hr_img = valid_hr_imgs[imid]
-    # valid_lr_img = get_imgs_fn('test.png', 'data2017/')  # if you want to test your own image
+    # valid_lr_img = get_imgs_fn('0800x4.png', 'data2017/')  # if you want to test your own image
     valid_lr_img = (valid_lr_img / 127.5) - 1  # rescale to ［－1, 1]
     # print(valid_lr_img.min(), valid_lr_img.max())
 
