@@ -8,3 +8,4 @@ checkpoint/
 __pycache__/
 vgg19.npy
 data2017/
+.idea/
