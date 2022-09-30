@@ -10,7 +10,7 @@ easydict==1.9
 enum34==1.1.6
 html5lib==0.9999999
 idna==2.8
-joblib==0.13.2
+joblib==1.2.0
 kiwisolver==1.0.1
 Markdown==3.0.1
 matplotlib==3.0.3
